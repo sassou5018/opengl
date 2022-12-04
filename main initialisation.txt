@@ -6,3 +6,7 @@ IN LINUX CONSOLE
 //gnu c++ compilation script
 g++ {"fileName"}.cpp -o OUT -lGL -lGLU -lglut
 ./OUT
+
+//pour windows
+x86_64-w64-mingw32-g++ {"fileName"}.cpp -o OUT.exe -lGL -lGLU -lglut
+
