@@ -9,4 +9,4 @@ g++ {"fileName"}.cpp -o OUT -lGL -lGLU -lglut
 
 //pour windows
 x86_64-w64-mingw32-g++ {"fileName"}.cpp -o OUT.exe -lGL -lGLU -lglut
-
+?
