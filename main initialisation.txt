@@ -1,0 +1,8 @@
+//USE MAKEFILE
+MAKE
+IN LINUX CONSOLE
+
+
+//gnu c++ compilation script
+g++ {"fileName"}.cpp -o OUT -lGL -lGLU -lglut
+./OUT
