@@ -7,7 +7,7 @@ J'ai crée le Projet Avec Linux GNU C++
 	 -  `g++ {"fileName"}.cpp -o OUT -lGL -lGLU -lglut`
 	 - `./OUT` Si Vous Avez compiler pour Linux
  - Utiliser l'un des fichier inclus:
-	- OUT pour Linux
+	- out pour Linux
 	- example.exe pour Windows 64bit
 ### Structure des fichiers:
 J'ai separer le code sur 3 Fichier:
