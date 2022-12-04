@@ -1,5 +1,10 @@
 ## *Modelisation Du Bonhomme* Avec Mouvement et rotation au clavier
 J'ai crée le Projet Avec Linux GNU C++
+
+# Avant de compiler le code veuillez installer freeglut avec: 
+`$ sudo apt-get install freeglut3 freeglut3-dev`
+
+`$ sudo apt-get install binutils-gold`
 ### Pour Compiler et Lancer le projet vous pouvez:
  - Utiliser le MakeFile inclus: (*Compile seulement pour linux*)
 	 - Ouver la console Linux dans le repertoire du projet et simplement taper: make
