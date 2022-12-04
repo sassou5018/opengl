@@ -8,7 +8,7 @@ J'ai crée le Projet Avec Linux GNU C++
 	 - `./OUT` Si Vous Avez compiler pour Linux
  - Utiliser l'un des fichier inclus:
 	- out pour Linux
-	- example.exe pour Windows 64bit
+	- J'ai pas pu compiler pour Windows veulliez tester avec une VM Ubuntu
 ### Structure des fichiers:
 J'ai separer le code sur 3 Fichier:
  - main.cpp :
