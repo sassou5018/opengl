@@ -42,5 +42,6 @@ J'ai séparé le code sur 3 fichiers:
  - [x] Changer les grimaces du model avec S(Sourire),T(Triste),I(idle)
  - [x] Faire la translation du model avec les flèches
  - [x] Faire la rotation du model avec les clicks de la souris
+ - [ ] Ajouter run animation
 
 
